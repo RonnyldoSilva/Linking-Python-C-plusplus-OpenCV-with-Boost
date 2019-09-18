@@ -13,7 +13,7 @@ This is an example about how to link Python to C++, and I am using OpenCV too.
 
 ### Dependences:
 
-* Opencv 3.2 (but you can without it)
+* Opencv 3.2 (but you can adapt it with orther version)
 * C++
 * Python 2.7
 * Boost 1.7

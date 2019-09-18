@@ -1,4 +1,4 @@
-# Create Python Module From C++ OpenCV 
+# Webcam Python using C++ OpenCV 
 
 ### What is it?
 

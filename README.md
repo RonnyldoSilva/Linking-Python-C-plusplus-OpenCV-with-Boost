@@ -24,3 +24,10 @@ This is an example about how to link Python to C++, and I am using OpenCV too.
 ```
 sudo apt-get install libboost-all-dev
 ```
+
+### How to run
+
+```
+make
+python test.py
+```

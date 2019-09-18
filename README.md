@@ -13,12 +13,13 @@ This is an example about how to link Python to C++, and I am using OpenCV too.
 
 ### Dependences:
 
+* Ubuntu 18.0.3
 * Opencv 3.2 (but you can adapt it with orther version)
 * C++
 * Python 2.7
 * Boost 1.7
 
-### Install
+### Install Boost
 
 ```
 sudo apt-get install libboost-all-dev

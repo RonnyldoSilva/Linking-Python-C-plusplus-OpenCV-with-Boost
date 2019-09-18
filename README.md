@@ -1,4 +1,4 @@
-# Webcam Python using C++ OpenCV 
+# Python using C++ OpenCV 
 
 (if you like it, leave a star)
 
@@ -16,3 +16,8 @@ This is an example about how to link Python to C++, and I am using OpenCV too.
 * Python 2.7
 * Boost 1.7
 
+### Install
+
+```
+sudo apt-get install libboost-all-dev
+```

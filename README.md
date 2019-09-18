@@ -9,6 +9,8 @@
 
 This is an example about how to link Python to C++, and I am using OpenCV too.
 
+![](image.png)
+
 ### Dependences:
 
 * Opencv 3.2 (but you can without it)

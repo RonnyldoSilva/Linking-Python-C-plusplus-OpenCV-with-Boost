@@ -1,5 +1,7 @@
 # Webcam Python using C++ OpenCV 
 
+:star::star::star::star::star: (if you like it, leave a star)
+
 ### What is it?
 
 This is an example about how to link Python to C++, and I am using OpenCV too.

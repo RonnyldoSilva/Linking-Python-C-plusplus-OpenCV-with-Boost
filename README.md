@@ -1,6 +1,9 @@
 # Webcam Python using C++ OpenCV 
 
-:star::star::star::star::star: (if you like it, leave a star)
+(if you like it, leave a star)
+
+
+:star::star::star::star::star: 
 
 ### What is it?
 

@@ -1,8 +1,6 @@
 # Python using C++ OpenCV 
 
 (if you like it, leave a star)
-
-
 :star::star::star::star::star: 
 
 ### What is it?
@@ -31,3 +29,6 @@ sudo apt-get install libboost-all-dev
 make
 python test.py
 ```
+
+(if you like it, leave a star)
+:star::star::star::star::star: 

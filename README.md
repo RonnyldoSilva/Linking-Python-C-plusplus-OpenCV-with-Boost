@@ -1,4 +1,4 @@
-# Python using C++ OpenCV 
+# Python C++ OpenCV Example
 
 (if you like it, leave a star)
 

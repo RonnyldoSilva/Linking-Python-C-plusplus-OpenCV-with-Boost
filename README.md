@@ -1,4 +1,4 @@
-# Python C++ OpenCV Example
+# Linking Python to C++ OpenCV with Boost (Example)
 
 (if you like it, leave a star)
 
